@@ -132,3 +132,96 @@ I'm a **web developer and software engineer** who turns ideas into modern, polis
             ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,45,178,230&height=200&section=footer&text=Let's%20Build%20Together&fontSize=40&fontColor=fff&animation=fadeIn)
 
             </div>
+
+
+---
+
+## 🧠 My Intelligence Stack
+
+<div align="center">
+
+### Large Language Models I Work With
+**Powering the Vibe Coder approach:**
+
+<img src="https://img.shields.io/badge/Claude-Anthropic-black?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude%20Code-Agent%20IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/GPT%20Models-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT Models" />
+
+### AI-Powered Development Tools
+**My agent team consists of:**
+
+<img src="https://img.shields.io/badge/Claude%20Haiku-Fast%20Inference-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Haiku" />
+<img src="https://img.shields.io/badge/Claude%20Sonnet-Balanced-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Sonnet" />
+<img src="https://img.shields.io/badge/Claude%20Opus-Expert%20Analysis-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Opus" />
+
+</div>
+
+---
+
+## 📊 Repository Analytics
+
+<div align="center">
+
+### Technology Adoption Across Projects
+
+| Category | Technologies | Primary Use |
+|----------|--------------|-------------|
+| **Web Frontend** | React, TypeScript, Tailwind CSS | SaaS platforms, interactive apps |
+| **Backend** | Firebase, PHP, Node.js | Real-time services, APIs |
+| **Databases** | Firestore, MySQL | Data persistence, querying |
+| **AI Integration** | Claude API, GPT models | Smart features, automation |
+| **Desktop Apps** | C++, Qt | Native desktop applications |
+| **Cross-Platform** | React Native, Flutter | Mobile & web sync |
+
+</div>
+
+### Repository Insights
+- **3+** full-stack projects in active development
+- - **310+** users reached with Cineverse Ultra AI
+  - - **100%** open-source contribution to quality
+    - - **256+** commits crafted with AI assistance
+      - - **15+** production features shipped
+       
+        - ---
+
+        ## 🎯 Development Specializations
+
+        ### What I Master
+
+        ```
+        ┌─────────────────────────────────────────────┐
+        │ 🚀 SaaS Architecture & Scaling               │
+        │ 🎨 Modern UI/UX with React & Tailwind       │
+        │ 🔥 Real-time Data with Firebase             │
+        │ 🤖 AI Integration (Claude, GPT)             │
+        │ 📱 Cross-platform Development               │
+        │ 🏗️ Full-Stack Solutions (Front to DB)       │
+        │ ⚡ Performance Optimization                  │
+        │ 🧪 Quality Assurance & Testing              │
+        └─────────────────────────────────────────────┘
+        ```
+
+        ---
+
+        ## 🌟 Why "Vibe Coder"?
+
+        Because **coding is more than syntax** — it's about:
+
+        ✨ **Vision** → Define what we're building
+        ⚙️ **Intelligence** → AI agents handle implementation
+        🎨 **Beauty** → Pixel-perfect, thoughtful design
+        ⏱️ **Efficiency** → Ship fast, iterate smartly
+
+        The magic happens when humans direct AI agents, and AI agents execute with precision.
+
+        ---
+
+        <div align="center">
+
+        ### 💼 Open for Collaborations
+        - **SaaS Partnerships** | **Contract Work** | **Team Projects**
+        - - **AI-First Development** | **Rapid Prototyping** | **Full-Stack Audits**
+         
+          - 🚀 **Ready to build something amazing?** Let's connect!
+         
+          - </div>
