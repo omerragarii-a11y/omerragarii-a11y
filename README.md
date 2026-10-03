@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=190&section=header&text=%C3%96mer%20A%C4%9Far%C4%B1&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI-Powered%20Full-Stack%20%26%20SaaS%20Developer&descSize=18&descAlignY=72" alt="Omer Agari banner" />
-</p>
 
 <p align="center">
 <a href="https://omeragari.web.app"><img src="https://img.shields.io/badge/Portfolio-omeragari.web.app-6366f1?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" /></a>
